@@ -1,5 +1,9 @@
 # Youtube Homepage UI
 
+Youtube Home page ui with Tailwind [(Nativewind)](https://www.nativewind.dev/)
+
+<img width="554" alt="Screen Shot 2023-06-25 at 15 23 42" src="https://github.com/ibrahimdogruer/youtube-clone-rn/assets/37226546/bbcc0711-39b2-429a-a1f5-895c4e4a2119">
+
 <p>
   <!-- iOS -->
   <img alt="Supports Expo iOS" longdesc="Supports Expo iOS" src="https://img.shields.io/badge/iOS-4630EB.svg?style=flat-square&logo=APPLE&labelColor=999999&logoColor=fff" />
